@@ -1,0 +1,12 @@
+C:\Users\Projects\Scaler\MS\run-aspnetcore-microservices-master\src\BuildingBlocks\BuildingBlocks.Messaging\bin\Debug\net8.0\BuildingBlocks.Messaging.deps.json
+C:\Users\Projects\Scaler\MS\run-aspnetcore-microservices-master\src\BuildingBlocks\BuildingBlocks.Messaging\bin\Debug\net8.0\BuildingBlocks.Messaging.dll
+C:\Users\Projects\Scaler\MS\run-aspnetcore-microservices-master\src\BuildingBlocks\BuildingBlocks.Messaging\bin\Debug\net8.0\BuildingBlocks.Messaging.pdb
+C:\Users\Projects\Scaler\MS\run-aspnetcore-microservices-master\src\BuildingBlocks\BuildingBlocks.Messaging\obj\Debug\net8.0\BuildingBlocks.Messaging.csproj.AssemblyReference.cache
+C:\Users\Projects\Scaler\MS\run-aspnetcore-microservices-master\src\BuildingBlocks\BuildingBlocks.Messaging\obj\Debug\net8.0\BuildingBlocks.Messaging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Projects\Scaler\MS\run-aspnetcore-microservices-master\src\BuildingBlocks\BuildingBlocks.Messaging\obj\Debug\net8.0\BuildingBlocks.Messaging.AssemblyInfoInputs.cache
+C:\Users\Projects\Scaler\MS\run-aspnetcore-microservices-master\src\BuildingBlocks\BuildingBlocks.Messaging\obj\Debug\net8.0\BuildingBlocks.Messaging.AssemblyInfo.cs
+C:\Users\Projects\Scaler\MS\run-aspnetcore-microservices-master\src\BuildingBlocks\BuildingBlocks.Messaging\obj\Debug\net8.0\BuildingBlocks.Messaging.csproj.CoreCompileInputs.cache
+C:\Users\Projects\Scaler\MS\run-aspnetcore-microservices-master\src\BuildingBlocks\BuildingBlocks.Messaging\obj\Debug\net8.0\BuildingBlocks.Messaging.dll
+C:\Users\Projects\Scaler\MS\run-aspnetcore-microservices-master\src\BuildingBlocks\BuildingBlocks.Messaging\obj\Debug\net8.0\refint\BuildingBlocks.Messaging.dll
+C:\Users\Projects\Scaler\MS\run-aspnetcore-microservices-master\src\BuildingBlocks\BuildingBlocks.Messaging\obj\Debug\net8.0\BuildingBlocks.Messaging.pdb
+C:\Users\Projects\Scaler\MS\run-aspnetcore-microservices-master\src\BuildingBlocks\BuildingBlocks.Messaging\obj\Debug\net8.0\ref\BuildingBlocks.Messaging.dll
