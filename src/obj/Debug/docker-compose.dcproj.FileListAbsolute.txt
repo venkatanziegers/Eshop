@@ -1,0 +1,1 @@
+C:\Users\Projects\Scaler\MS\run-aspnetcore-microservices-master\src\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache

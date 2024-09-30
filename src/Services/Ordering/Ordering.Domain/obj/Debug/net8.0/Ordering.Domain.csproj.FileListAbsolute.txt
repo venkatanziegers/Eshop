@@ -1,0 +1,12 @@
+C:\Users\Projects\Scaler\MS\run-aspnetcore-microservices-master\src\Services\Ordering\Ordering.Domain\bin\Debug\net8.0\Ordering.Domain.deps.json
+C:\Users\Projects\Scaler\MS\run-aspnetcore-microservices-master\src\Services\Ordering\Ordering.Domain\bin\Debug\net8.0\Ordering.Domain.dll
+C:\Users\Projects\Scaler\MS\run-aspnetcore-microservices-master\src\Services\Ordering\Ordering.Domain\bin\Debug\net8.0\Ordering.Domain.pdb
+C:\Users\Projects\Scaler\MS\run-aspnetcore-microservices-master\src\Services\Ordering\Ordering.Domain\obj\Debug\net8.0\Ordering.Domain.csproj.AssemblyReference.cache
+C:\Users\Projects\Scaler\MS\run-aspnetcore-microservices-master\src\Services\Ordering\Ordering.Domain\obj\Debug\net8.0\Ordering.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Projects\Scaler\MS\run-aspnetcore-microservices-master\src\Services\Ordering\Ordering.Domain\obj\Debug\net8.0\Ordering.Domain.AssemblyInfoInputs.cache
+C:\Users\Projects\Scaler\MS\run-aspnetcore-microservices-master\src\Services\Ordering\Ordering.Domain\obj\Debug\net8.0\Ordering.Domain.AssemblyInfo.cs
+C:\Users\Projects\Scaler\MS\run-aspnetcore-microservices-master\src\Services\Ordering\Ordering.Domain\obj\Debug\net8.0\Ordering.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Projects\Scaler\MS\run-aspnetcore-microservices-master\src\Services\Ordering\Ordering.Domain\obj\Debug\net8.0\Ordering.Domain.dll
+C:\Users\Projects\Scaler\MS\run-aspnetcore-microservices-master\src\Services\Ordering\Ordering.Domain\obj\Debug\net8.0\refint\Ordering.Domain.dll
+C:\Users\Projects\Scaler\MS\run-aspnetcore-microservices-master\src\Services\Ordering\Ordering.Domain\obj\Debug\net8.0\Ordering.Domain.pdb
+C:\Users\Projects\Scaler\MS\run-aspnetcore-microservices-master\src\Services\Ordering\Ordering.Domain\obj\Debug\net8.0\ref\Ordering.Domain.dll

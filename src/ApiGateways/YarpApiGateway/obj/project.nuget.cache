@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ByaRzjkNLsU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Projects\\Scaler\\MS\\EShop\\src\\ApiGateways\\YarpApiGateway\\YarpApiGateway.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Venkat\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512",
+    "C:\\Users\\Venkat\\.nuget\\packages\\system.io.hashing\\7.0.0\\system.io.hashing.7.0.0.nupkg.sha512",
+    "C:\\Users\\Venkat\\.nuget\\packages\\yarp.reverseproxy\\2.1.0\\yarp.reverseproxy.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

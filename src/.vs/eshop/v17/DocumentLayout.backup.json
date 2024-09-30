@@ -1,0 +1,700 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Projects\\Scaler\\MS\\run-aspnetcore-microservices-master\\src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E92915D6-79EB-49A8-A52B-E288A0878D48}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|c:\\users\\projects\\scaler\\ms\\run-aspnetcore-microservices-master\\src\\services\\ordering\\ordering.domain\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92915D6-79EB-49A8-A52B-E288A0878D48}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:services\\ordering\\ordering.domain\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92915D6-79EB-49A8-A52B-E288A0878D48}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|c:\\users\\projects\\scaler\\ms\\run-aspnetcore-microservices-master\\src\\services\\ordering\\ordering.domain\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92915D6-79EB-49A8-A52B-E288A0878D48}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:services\\ordering\\ordering.domain\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92915D6-79EB-49A8-A52B-E288A0878D48}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|c:\\users\\projects\\scaler\\ms\\run-aspnetcore-microservices-master\\src\\services\\ordering\\ordering.domain\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92915D6-79EB-49A8-A52B-E288A0878D48}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:services\\ordering\\ordering.domain\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92915D6-79EB-49A8-A52B-E288A0878D48}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|c:\\users\\projects\\scaler\\ms\\run-aspnetcore-microservices-master\\src\\services\\ordering\\ordering.domain\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92915D6-79EB-49A8-A52B-E288A0878D48}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:services\\ordering\\ordering.domain\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{916232B8-7FEB-4FC1-81EC-27C6F8469A57}|Services\\Discount\\Discount.Grpc\\Discount.Grpc.csproj|c:\\users\\projects\\scaler\\ms\\run-aspnetcore-microservices-master\\src\\services\\discount\\discount.grpc\\migrations\\discountcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{916232B8-7FEB-4FC1-81EC-27C6F8469A57}|Services\\Discount\\Discount.Grpc\\Discount.Grpc.csproj|solutionrelative:services\\discount\\discount.grpc\\migrations\\discountcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{916232B8-7FEB-4FC1-81EC-27C6F8469A57}|Services\\Discount\\Discount.Grpc\\Discount.Grpc.csproj|c:\\users\\projects\\scaler\\ms\\run-aspnetcore-microservices-master\\src\\services\\discount\\discount.grpc\\migrations\\20240202091837_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{916232B8-7FEB-4FC1-81EC-27C6F8469A57}|Services\\Discount\\Discount.Grpc\\Discount.Grpc.csproj|solutionrelative:services\\discount\\discount.grpc\\migrations\\20240202091837_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{916232B8-7FEB-4FC1-81EC-27C6F8469A57}|Services\\Discount\\Discount.Grpc\\Discount.Grpc.csproj|c:\\users\\projects\\scaler\\ms\\run-aspnetcore-microservices-master\\src\\services\\discount\\discount.grpc\\models\\coupon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{916232B8-7FEB-4FC1-81EC-27C6F8469A57}|Services\\Discount\\Discount.Grpc\\Discount.Grpc.csproj|solutionrelative:services\\discount\\discount.grpc\\models\\coupon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B39E950B-EDA6-4D94-85F5-93ED1FD03CF1}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\projects\\scaler\\ms\\run-aspnetcore-microservices-master\\src\\services\\catalog\\catalog.api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B39E950B-EDA6-4D94-85F5-93ED1FD03CF1}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{439ADDA5-EA6B-4B30-BD7B-3E2000D33CE5}|Services\\Basket\\Basket.API\\Basket.API.csproj|c:\\users\\projects\\scaler\\ms\\run-aspnetcore-microservices-master\\src\\services\\basket\\basket.api\\data\\basketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{439ADDA5-EA6B-4B30-BD7B-3E2000D33CE5}|Services\\Basket\\Basket.API\\Basket.API.csproj|solutionrelative:services\\basket\\basket.api\\data\\basketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{439ADDA5-EA6B-4B30-BD7B-3E2000D33CE5}|Services\\Basket\\Basket.API\\Basket.API.csproj|c:\\users\\projects\\scaler\\ms\\run-aspnetcore-microservices-master\\src\\services\\basket\\basket.api\\models\\shoppingcartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{439ADDA5-EA6B-4B30-BD7B-3E2000D33CE5}|Services\\Basket\\Basket.API\\Basket.API.csproj|solutionrelative:services\\basket\\basket.api\\models\\shoppingcartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{439ADDA5-EA6B-4B30-BD7B-3E2000D33CE5}|Services\\Basket\\Basket.API\\Basket.API.csproj|c:\\users\\projects\\scaler\\ms\\run-aspnetcore-microservices-master\\src\\services\\basket\\basket.api\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{439ADDA5-EA6B-4B30-BD7B-3E2000D33CE5}|Services\\Basket\\Basket.API\\Basket.API.csproj|solutionrelative:services\\basket\\basket.api\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F9134CF-E36E-499C-B3D3-9103D77F3979}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|c:\\users\\projects\\scaler\\ms\\run-aspnetcore-microservices-master\\src\\services\\ordering\\ordering.application\\orders\\queries\\getorders\\getordershandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F9134CF-E36E-499C-B3D3-9103D77F3979}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|solutionrelative:services\\ordering\\ordering.application\\orders\\queries\\getorders\\getordershandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F9134CF-E36E-499C-B3D3-9103D77F3979}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|c:\\users\\projects\\scaler\\ms\\run-aspnetcore-microservices-master\\src\\services\\ordering\\ordering.application\\orders\\commands\\updateorder\\updateorderhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F9134CF-E36E-499C-B3D3-9103D77F3979}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|solutionrelative:services\\ordering\\ordering.application\\orders\\commands\\updateorder\\updateorderhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F9134CF-E36E-499C-B3D3-9103D77F3979}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|c:\\users\\projects\\scaler\\ms\\run-aspnetcore-microservices-master\\src\\services\\ordering\\ordering.application\\orders\\commands\\updateorder\\updateordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F9134CF-E36E-499C-B3D3-9103D77F3979}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|solutionrelative:services\\ordering\\ordering.application\\orders\\commands\\updateorder\\updateordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F9134CF-E36E-499C-B3D3-9103D77F3979}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|c:\\users\\projects\\scaler\\ms\\run-aspnetcore-microservices-master\\src\\services\\ordering\\ordering.application\\orders\\commands\\deleteorder\\deleteorderhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F9134CF-E36E-499C-B3D3-9103D77F3979}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|solutionrelative:services\\ordering\\ordering.application\\orders\\commands\\deleteorder\\deleteorderhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F9134CF-E36E-499C-B3D3-9103D77F3979}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|c:\\users\\projects\\scaler\\ms\\run-aspnetcore-microservices-master\\src\\services\\ordering\\ordering.application\\orders\\commands\\deleteorder\\deleteordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F9134CF-E36E-499C-B3D3-9103D77F3979}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|solutionrelative:services\\ordering\\ordering.application\\orders\\commands\\deleteorder\\deleteordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F9134CF-E36E-499C-B3D3-9103D77F3979}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|c:\\users\\projects\\scaler\\ms\\run-aspnetcore-microservices-master\\src\\services\\ordering\\ordering.application\\orders\\commands\\createorder\\createorderhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F9134CF-E36E-499C-B3D3-9103D77F3979}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|solutionrelative:services\\ordering\\ordering.application\\orders\\commands\\createorder\\createorderhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F9134CF-E36E-499C-B3D3-9103D77F3979}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|c:\\users\\projects\\scaler\\ms\\run-aspnetcore-microservices-master\\src\\services\\ordering\\ordering.application\\orders\\commands\\createorder\\createordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F9134CF-E36E-499C-B3D3-9103D77F3979}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|solutionrelative:services\\ordering\\ordering.application\\orders\\commands\\createorder\\createordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B39E950B-EDA6-4D94-85F5-93ED1FD03CF1}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\projects\\scaler\\ms\\run-aspnetcore-microservices-master\\src\\services\\catalog\\catalog.api\\products\\updateproduct\\updateproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B39E950B-EDA6-4D94-85F5-93ED1FD03CF1}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\products\\updateproduct\\updateproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B39E950B-EDA6-4D94-85F5-93ED1FD03CF1}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\projects\\scaler\\ms\\run-aspnetcore-microservices-master\\src\\services\\catalog\\catalog.api\\products\\updateproduct\\updateproductendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B39E950B-EDA6-4D94-85F5-93ED1FD03CF1}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\products\\updateproduct\\updateproductendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B39E950B-EDA6-4D94-85F5-93ED1FD03CF1}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\projects\\scaler\\ms\\run-aspnetcore-microservices-master\\src\\services\\catalog\\catalog.api\\products\\getproducts\\getproductshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B39E950B-EDA6-4D94-85F5-93ED1FD03CF1}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\products\\getproducts\\getproductshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B39E950B-EDA6-4D94-85F5-93ED1FD03CF1}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\projects\\scaler\\ms\\run-aspnetcore-microservices-master\\src\\services\\catalog\\catalog.api\\products\\getproducts\\getproductsendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B39E950B-EDA6-4D94-85F5-93ED1FD03CF1}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\products\\getproducts\\getproductsendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B39E950B-EDA6-4D94-85F5-93ED1FD03CF1}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\projects\\scaler\\ms\\run-aspnetcore-microservices-master\\src\\services\\catalog\\catalog.api\\products\\getproductbyid\\getproductbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B39E950B-EDA6-4D94-85F5-93ED1FD03CF1}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\products\\getproductbyid\\getproductbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B39E950B-EDA6-4D94-85F5-93ED1FD03CF1}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\projects\\scaler\\ms\\run-aspnetcore-microservices-master\\src\\services\\catalog\\catalog.api\\products\\getproductbyid\\getproductbyidendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B39E950B-EDA6-4D94-85F5-93ED1FD03CF1}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\products\\getproductbyid\\getproductbyidendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B39E950B-EDA6-4D94-85F5-93ED1FD03CF1}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\projects\\scaler\\ms\\run-aspnetcore-microservices-master\\src\\services\\catalog\\catalog.api\\products\\getproductbycategory\\getproductbycategoryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B39E950B-EDA6-4D94-85F5-93ED1FD03CF1}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\products\\getproductbycategory\\getproductbycategoryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B39E950B-EDA6-4D94-85F5-93ED1FD03CF1}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\projects\\scaler\\ms\\run-aspnetcore-microservices-master\\src\\services\\catalog\\catalog.api\\products\\getproductbycategory\\getproductbycategoryendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B39E950B-EDA6-4D94-85F5-93ED1FD03CF1}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\products\\getproductbycategory\\getproductbycategoryendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B39E950B-EDA6-4D94-85F5-93ED1FD03CF1}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\projects\\scaler\\ms\\run-aspnetcore-microservices-master\\src\\services\\catalog\\catalog.api\\products\\deleteproduct\\deleteproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B39E950B-EDA6-4D94-85F5-93ED1FD03CF1}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\products\\deleteproduct\\deleteproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B39E950B-EDA6-4D94-85F5-93ED1FD03CF1}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\projects\\scaler\\ms\\run-aspnetcore-microservices-master\\src\\services\\catalog\\catalog.api\\products\\deleteproduct\\deleteproductendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B39E950B-EDA6-4D94-85F5-93ED1FD03CF1}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\products\\deleteproduct\\deleteproductendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B39E950B-EDA6-4D94-85F5-93ED1FD03CF1}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\projects\\scaler\\ms\\run-aspnetcore-microservices-master\\src\\services\\catalog\\catalog.api\\products\\createproduct\\createproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B39E950B-EDA6-4D94-85F5-93ED1FD03CF1}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\products\\createproduct\\createproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B39E950B-EDA6-4D94-85F5-93ED1FD03CF1}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\projects\\scaler\\ms\\run-aspnetcore-microservices-master\\src\\services\\catalog\\catalog.api\\products\\createproduct\\createproductendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B39E950B-EDA6-4D94-85F5-93ED1FD03CF1}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\products\\createproduct\\createproductendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{439ADDA5-EA6B-4B30-BD7B-3E2000D33CE5}|Services\\Basket\\Basket.API\\Basket.API.csproj|c:\\users\\projects\\scaler\\ms\\run-aspnetcore-microservices-master\\src\\services\\basket\\basket.api\\data\\ibasketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{439ADDA5-EA6B-4B30-BD7B-3E2000D33CE5}|Services\\Basket\\Basket.API\\Basket.API.csproj|solutionrelative:services\\basket\\basket.api\\data\\ibasketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{439ADDA5-EA6B-4B30-BD7B-3E2000D33CE5}|Services\\Basket\\Basket.API\\Basket.API.csproj|c:\\users\\projects\\scaler\\ms\\run-aspnetcore-microservices-master\\src\\services\\basket\\basket.api\\data\\cachedbasketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{439ADDA5-EA6B-4B30-BD7B-3E2000D33CE5}|Services\\Basket\\Basket.API\\Basket.API.csproj|solutionrelative:services\\basket\\basket.api\\data\\cachedbasketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{439ADDA5-EA6B-4B30-BD7B-3E2000D33CE5}|Services\\Basket\\Basket.API\\Basket.API.csproj|c:\\users\\projects\\scaler\\ms\\run-aspnetcore-microservices-master\\src\\services\\basket\\basket.api\\basket\\storebasket\\storebaskethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{439ADDA5-EA6B-4B30-BD7B-3E2000D33CE5}|Services\\Basket\\Basket.API\\Basket.API.csproj|solutionrelative:services\\basket\\basket.api\\basket\\storebasket\\storebaskethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{439ADDA5-EA6B-4B30-BD7B-3E2000D33CE5}|Services\\Basket\\Basket.API\\Basket.API.csproj|c:\\users\\projects\\scaler\\ms\\run-aspnetcore-microservices-master\\src\\services\\basket\\basket.api\\basket\\storebasket\\storebasketendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{439ADDA5-EA6B-4B30-BD7B-3E2000D33CE5}|Services\\Basket\\Basket.API\\Basket.API.csproj|solutionrelative:services\\basket\\basket.api\\basket\\storebasket\\storebasketendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{439ADDA5-EA6B-4B30-BD7B-3E2000D33CE5}|Services\\Basket\\Basket.API\\Basket.API.csproj|c:\\users\\projects\\scaler\\ms\\run-aspnetcore-microservices-master\\src\\services\\basket\\basket.api\\basket\\getbasket\\getbaskethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{439ADDA5-EA6B-4B30-BD7B-3E2000D33CE5}|Services\\Basket\\Basket.API\\Basket.API.csproj|solutionrelative:services\\basket\\basket.api\\basket\\getbasket\\getbaskethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{439ADDA5-EA6B-4B30-BD7B-3E2000D33CE5}|Services\\Basket\\Basket.API\\Basket.API.csproj|c:\\users\\projects\\scaler\\ms\\run-aspnetcore-microservices-master\\src\\services\\basket\\basket.api\\basket\\getbasket\\getbasketendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{439ADDA5-EA6B-4B30-BD7B-3E2000D33CE5}|Services\\Basket\\Basket.API\\Basket.API.csproj|solutionrelative:services\\basket\\basket.api\\basket\\getbasket\\getbasketendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{439ADDA5-EA6B-4B30-BD7B-3E2000D33CE5}|Services\\Basket\\Basket.API\\Basket.API.csproj|c:\\users\\projects\\scaler\\ms\\run-aspnetcore-microservices-master\\src\\services\\basket\\basket.api\\basket\\deletebasket\\deletebaskethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{439ADDA5-EA6B-4B30-BD7B-3E2000D33CE5}|Services\\Basket\\Basket.API\\Basket.API.csproj|solutionrelative:services\\basket\\basket.api\\basket\\deletebasket\\deletebaskethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{439ADDA5-EA6B-4B30-BD7B-3E2000D33CE5}|Services\\Basket\\Basket.API\\Basket.API.csproj|c:\\users\\projects\\scaler\\ms\\run-aspnetcore-microservices-master\\src\\services\\basket\\basket.api\\basket\\deletebasket\\deletebasketendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{439ADDA5-EA6B-4B30-BD7B-3E2000D33CE5}|Services\\Basket\\Basket.API\\Basket.API.csproj|solutionrelative:services\\basket\\basket.api\\basket\\deletebasket\\deletebasketendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{439ADDA5-EA6B-4B30-BD7B-3E2000D33CE5}|Services\\Basket\\Basket.API\\Basket.API.csproj|c:\\users\\projects\\scaler\\ms\\run-aspnetcore-microservices-master\\src\\services\\basket\\basket.api\\basket\\checkoutbasket\\checkoutbaskethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{439ADDA5-EA6B-4B30-BD7B-3E2000D33CE5}|Services\\Basket\\Basket.API\\Basket.API.csproj|solutionrelative:services\\basket\\basket.api\\basket\\checkoutbasket\\checkoutbaskethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{439ADDA5-EA6B-4B30-BD7B-3E2000D33CE5}|Services\\Basket\\Basket.API\\Basket.API.csproj|c:\\users\\projects\\scaler\\ms\\run-aspnetcore-microservices-master\\src\\services\\basket\\basket.api\\basket\\checkoutbasket\\checkoutbasketendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{439ADDA5-EA6B-4B30-BD7B-3E2000D33CE5}|Services\\Basket\\Basket.API\\Basket.API.csproj|solutionrelative:services\\basket\\basket.api\\basket\\checkoutbasket\\checkoutbasketendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Projects\\Scaler\\MS\\run-aspnetcore-microservices-master\\src\\Services\\Ordering\\Ordering.Domain\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Domain\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Projects\\Scaler\\MS\\run-aspnetcore-microservices-master\\src\\Services\\Ordering\\Ordering.Domain\\Models\\Product.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Domain\\Models\\Product.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAiwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T17:43:21.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\Projects\\Scaler\\MS\\run-aspnetcore-microservices-master\\src\\Services\\Ordering\\Ordering.Domain\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Domain\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\Projects\\Scaler\\MS\\run-aspnetcore-microservices-master\\src\\Services\\Ordering\\Ordering.Domain\\Models\\OrderItem.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Domain\\Models\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T17:43:15.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Projects\\Scaler\\MS\\run-aspnetcore-microservices-master\\src\\Services\\Ordering\\Ordering.Domain\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Domain\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\Projects\\Scaler\\MS\\run-aspnetcore-microservices-master\\src\\Services\\Ordering\\Ordering.Domain\\Models\\Order.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Domain\\Models\\Order.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAUwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T17:43:09.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Projects\\Scaler\\MS\\run-aspnetcore-microservices-master\\src\\Services\\Ordering\\Ordering.Domain\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Domain\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\Projects\\Scaler\\MS\\run-aspnetcore-microservices-master\\src\\Services\\Ordering\\Ordering.Domain\\Models\\Customer.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Domain\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T17:42:58.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DiscountContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Projects\\Scaler\\MS\\run-aspnetcore-microservices-master\\src\\Services\\Discount\\Discount.Grpc\\Migrations\\DiscountContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Services\\Discount\\Discount.Grpc\\Migrations\\DiscountContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Projects\\Scaler\\MS\\run-aspnetcore-microservices-master\\src\\Services\\Discount\\Discount.Grpc\\Migrations\\DiscountContextModelSnapshot.cs",
+              "RelativeToolTip": "Services\\Discount\\Discount.Grpc\\Migrations\\DiscountContextModelSnapshot.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAmwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T17:38:27.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240202091837_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Projects\\Scaler\\MS\\run-aspnetcore-microservices-master\\src\\Services\\Discount\\Discount.Grpc\\Migrations\\20240202091837_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Services\\Discount\\Discount.Grpc\\Migrations\\20240202091837_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Projects\\Scaler\\MS\\run-aspnetcore-microservices-master\\src\\Services\\Discount\\Discount.Grpc\\Migrations\\20240202091837_InitialCreate.cs",
+              "RelativeToolTip": "Services\\Discount\\Discount.Grpc\\Migrations\\20240202091837_InitialCreate.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAiwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T17:38:17.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Coupon.cs",
+              "DocumentMoniker": "C:\\Users\\Projects\\Scaler\\MS\\run-aspnetcore-microservices-master\\src\\Services\\Discount\\Discount.Grpc\\Models\\Coupon.cs",
+              "RelativeDocumentMoniker": "Services\\Discount\\Discount.Grpc\\Models\\Coupon.cs",
+              "ToolTip": "C:\\Users\\Projects\\Scaler\\MS\\run-aspnetcore-microservices-master\\src\\Services\\Discount\\Discount.Grpc\\Models\\Coupon.cs",
+              "RelativeToolTip": "Services\\Discount\\Discount.Grpc\\Models\\Coupon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T17:38:08.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Projects\\Scaler\\MS\\run-aspnetcore-microservices-master\\src\\Services\\Catalog\\Catalog.API\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Projects\\Scaler\\MS\\run-aspnetcore-microservices-master\\src\\Services\\Catalog\\Catalog.API\\Models\\Product.cs",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T17:34:38.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ShoppingCartItem.cs",
+              "DocumentMoniker": "C:\\Users\\Projects\\Scaler\\MS\\run-aspnetcore-microservices-master\\src\\Services\\Basket\\Basket.API\\Models\\ShoppingCartItem.cs",
+              "RelativeDocumentMoniker": "Services\\Basket\\Basket.API\\Models\\ShoppingCartItem.cs",
+              "ToolTip": "C:\\Users\\Projects\\Scaler\\MS\\run-aspnetcore-microservices-master\\src\\Services\\Basket\\Basket.API\\Models\\ShoppingCartItem.cs",
+              "RelativeToolTip": "Services\\Basket\\Basket.API\\Models\\ShoppingCartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T16:09:48.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "C:\\Users\\Projects\\Scaler\\MS\\run-aspnetcore-microservices-master\\src\\Services\\Basket\\Basket.API\\Models\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "Services\\Basket\\Basket.API\\Models\\ShoppingCart.cs",
+              "ToolTip": "C:\\Users\\Projects\\Scaler\\MS\\run-aspnetcore-microservices-master\\src\\Services\\Basket\\Basket.API\\Models\\ShoppingCart.cs",
+              "RelativeToolTip": "Services\\Basket\\Basket.API\\Models\\ShoppingCart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T16:09:44.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GetOrdersHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Projects\\Scaler\\MS\\run-aspnetcore-microservices-master\\src\\Services\\Ordering\\Ordering.Application\\Orders\\Queries\\GetOrders\\GetOrdersHandler.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Application\\Orders\\Queries\\GetOrders\\GetOrdersHandler.cs",
+              "ToolTip": "C:\\Users\\Projects\\Scaler\\MS\\run-aspnetcore-microservices-master\\src\\Services\\Ordering\\Ordering.Application\\Orders\\Queries\\GetOrders\\GetOrdersHandler.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Application\\Orders\\Queries\\GetOrders\\GetOrdersHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T16:05:23.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UpdateOrderHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Projects\\Scaler\\MS\\run-aspnetcore-microservices-master\\src\\Services\\Ordering\\Ordering.Application\\Orders\\Commands\\UpdateOrder\\UpdateOrderHandler.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Application\\Orders\\Commands\\UpdateOrder\\UpdateOrderHandler.cs",
+              "ToolTip": "C:\\Users\\Projects\\Scaler\\MS\\run-aspnetcore-microservices-master\\src\\Services\\Ordering\\Ordering.Application\\Orders\\Commands\\UpdateOrder\\UpdateOrderHandler.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Application\\Orders\\Commands\\UpdateOrder\\UpdateOrderHandler.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T16:05:12.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UpdateOrderCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Projects\\Scaler\\MS\\run-aspnetcore-microservices-master\\src\\Services\\Ordering\\Ordering.Application\\Orders\\Commands\\UpdateOrder\\UpdateOrderCommand.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Application\\Orders\\Commands\\UpdateOrder\\UpdateOrderCommand.cs",
+              "ToolTip": "C:\\Users\\Projects\\Scaler\\MS\\run-aspnetcore-microservices-master\\src\\Services\\Ordering\\Ordering.Application\\Orders\\Commands\\UpdateOrder\\UpdateOrderCommand.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Application\\Orders\\Commands\\UpdateOrder\\UpdateOrderCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T16:05:05.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BasketRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Projects\\Scaler\\MS\\run-aspnetcore-microservices-master\\src\\Services\\Basket\\Basket.API\\Data\\BasketRepository.cs",
+              "RelativeDocumentMoniker": "Services\\Basket\\Basket.API\\Data\\BasketRepository.cs",
+              "ToolTip": "C:\\Users\\Projects\\Scaler\\MS\\run-aspnetcore-microservices-master\\src\\Services\\Basket\\Basket.API\\Data\\BasketRepository.cs",
+              "RelativeToolTip": "Services\\Basket\\Basket.API\\Data\\BasketRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T12:51:22.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DeleteOrderHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Projects\\Scaler\\MS\\run-aspnetcore-microservices-master\\src\\Services\\Ordering\\Ordering.Application\\Orders\\Commands\\DeleteOrder\\DeleteOrderHandler.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Application\\Orders\\Commands\\DeleteOrder\\DeleteOrderHandler.cs",
+              "ToolTip": "C:\\Users\\Projects\\Scaler\\MS\\run-aspnetcore-microservices-master\\src\\Services\\Ordering\\Ordering.Application\\Orders\\Commands\\DeleteOrder\\DeleteOrderHandler.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Application\\Orders\\Commands\\DeleteOrder\\DeleteOrderHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T16:04:58.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DeleteOrderCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Projects\\Scaler\\MS\\run-aspnetcore-microservices-master\\src\\Services\\Ordering\\Ordering.Application\\Orders\\Commands\\DeleteOrder\\DeleteOrderCommand.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Application\\Orders\\Commands\\DeleteOrder\\DeleteOrderCommand.cs",
+              "ToolTip": "C:\\Users\\Projects\\Scaler\\MS\\run-aspnetcore-microservices-master\\src\\Services\\Ordering\\Ordering.Application\\Orders\\Commands\\DeleteOrder\\DeleteOrderCommand.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Application\\Orders\\Commands\\DeleteOrder\\DeleteOrderCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T16:04:53.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CreateOrderHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Projects\\Scaler\\MS\\run-aspnetcore-microservices-master\\src\\Services\\Ordering\\Ordering.Application\\Orders\\Commands\\CreateOrder\\CreateOrderHandler.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Application\\Orders\\Commands\\CreateOrder\\CreateOrderHandler.cs",
+              "ToolTip": "C:\\Users\\Projects\\Scaler\\MS\\run-aspnetcore-microservices-master\\src\\Services\\Ordering\\Ordering.Application\\Orders\\Commands\\CreateOrder\\CreateOrderHandler.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Application\\Orders\\Commands\\CreateOrder\\CreateOrderHandler.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T16:04:44.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CreateOrderCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Projects\\Scaler\\MS\\run-aspnetcore-microservices-master\\src\\Services\\Ordering\\Ordering.Application\\Orders\\Commands\\CreateOrder\\CreateOrderCommand.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Application\\Orders\\Commands\\CreateOrder\\CreateOrderCommand.cs",
+              "ToolTip": "C:\\Users\\Projects\\Scaler\\MS\\run-aspnetcore-microservices-master\\src\\Services\\Ordering\\Ordering.Application\\Orders\\Commands\\CreateOrder\\CreateOrderCommand.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Application\\Orders\\Commands\\CreateOrder\\CreateOrderCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T16:04:33.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UpdateProductHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Projects\\Scaler\\MS\\run-aspnetcore-microservices-master\\src\\Services\\Catalog\\Catalog.API\\Products\\UpdateProduct\\UpdateProductHandler.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Products\\UpdateProduct\\UpdateProductHandler.cs",
+              "ToolTip": "C:\\Users\\Projects\\Scaler\\MS\\run-aspnetcore-microservices-master\\src\\Services\\Catalog\\Catalog.API\\Products\\UpdateProduct\\UpdateProductHandler.cs",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Products\\UpdateProduct\\UpdateProductHandler.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAcwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T16:00:41.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UpdateProductEndpoint.cs",
+              "DocumentMoniker": "C:\\Users\\Projects\\Scaler\\MS\\run-aspnetcore-microservices-master\\src\\Services\\Catalog\\Catalog.API\\Products\\UpdateProduct\\UpdateProductEndpoint.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Products\\UpdateProduct\\UpdateProductEndpoint.cs",
+              "ToolTip": "C:\\Users\\Projects\\Scaler\\MS\\run-aspnetcore-microservices-master\\src\\Services\\Catalog\\Catalog.API\\Products\\UpdateProduct\\UpdateProductEndpoint.cs",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Products\\UpdateProduct\\UpdateProductEndpoint.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T16:00:35.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GetProductsHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Projects\\Scaler\\MS\\run-aspnetcore-microservices-master\\src\\Services\\Catalog\\Catalog.API\\Products\\GetProducts\\GetProductsHandler.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Products\\GetProducts\\GetProductsHandler.cs",
+              "ToolTip": "C:\\Users\\Projects\\Scaler\\MS\\run-aspnetcore-microservices-master\\src\\Services\\Catalog\\Catalog.API\\Products\\GetProducts\\GetProductsHandler.cs",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Products\\GetProducts\\GetProductsHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T16:00:28.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GetProductsEndpoint.cs",
+              "DocumentMoniker": "C:\\Users\\Projects\\Scaler\\MS\\run-aspnetcore-microservices-master\\src\\Services\\Catalog\\Catalog.API\\Products\\GetProducts\\GetProductsEndpoint.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Products\\GetProducts\\GetProductsEndpoint.cs",
+              "ToolTip": "C:\\Users\\Projects\\Scaler\\MS\\run-aspnetcore-microservices-master\\src\\Services\\Catalog\\Catalog.API\\Products\\GetProducts\\GetProductsEndpoint.cs",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Products\\GetProducts\\GetProductsEndpoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T16:00:23.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GetProductByIdHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Projects\\Scaler\\MS\\run-aspnetcore-microservices-master\\src\\Services\\Catalog\\Catalog.API\\Products\\GetProductById\\GetProductByIdHandler.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Products\\GetProductById\\GetProductByIdHandler.cs",
+              "ToolTip": "C:\\Users\\Projects\\Scaler\\MS\\run-aspnetcore-microservices-master\\src\\Services\\Catalog\\Catalog.API\\Products\\GetProductById\\GetProductByIdHandler.cs",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Products\\GetProductById\\GetProductByIdHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T16:00:16.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GetProductByIdEndpoint.cs",
+              "DocumentMoniker": "C:\\Users\\Projects\\Scaler\\MS\\run-aspnetcore-microservices-master\\src\\Services\\Catalog\\Catalog.API\\Products\\GetProductById\\GetProductByIdEndpoint.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Products\\GetProductById\\GetProductByIdEndpoint.cs",
+              "ToolTip": "C:\\Users\\Projects\\Scaler\\MS\\run-aspnetcore-microservices-master\\src\\Services\\Catalog\\Catalog.API\\Products\\GetProductById\\GetProductByIdEndpoint.cs",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Products\\GetProductById\\GetProductByIdEndpoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T16:00:10.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GetProductByCategoryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Projects\\Scaler\\MS\\run-aspnetcore-microservices-master\\src\\Services\\Catalog\\Catalog.API\\Products\\GetProductByCategory\\GetProductByCategoryHandler.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Products\\GetProductByCategory\\GetProductByCategoryHandler.cs",
+              "ToolTip": "C:\\Users\\Projects\\Scaler\\MS\\run-aspnetcore-microservices-master\\src\\Services\\Catalog\\Catalog.API\\Products\\GetProductByCategory\\GetProductByCategoryHandler.cs",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Products\\GetProductByCategory\\GetProductByCategoryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T16:00:03.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GetProductByCategoryEndpoint.cs",
+              "DocumentMoniker": "C:\\Users\\Projects\\Scaler\\MS\\run-aspnetcore-microservices-master\\src\\Services\\Catalog\\Catalog.API\\Products\\GetProductByCategory\\GetProductByCategoryEndpoint.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Products\\GetProductByCategory\\GetProductByCategoryEndpoint.cs",
+              "ToolTip": "C:\\Users\\Projects\\Scaler\\MS\\run-aspnetcore-microservices-master\\src\\Services\\Catalog\\Catalog.API\\Products\\GetProductByCategory\\GetProductByCategoryEndpoint.cs",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Products\\GetProductByCategory\\GetProductByCategoryEndpoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T15:59:58.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DeleteProductHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Projects\\Scaler\\MS\\run-aspnetcore-microservices-master\\src\\Services\\Catalog\\Catalog.API\\Products\\DeleteProduct\\DeleteProductHandler.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Products\\DeleteProduct\\DeleteProductHandler.cs",
+              "ToolTip": "C:\\Users\\Projects\\Scaler\\MS\\run-aspnetcore-microservices-master\\src\\Services\\Catalog\\Catalog.API\\Products\\DeleteProduct\\DeleteProductHandler.cs",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Products\\DeleteProduct\\DeleteProductHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T15:59:51.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DeleteProductEndpoint.cs",
+              "DocumentMoniker": "C:\\Users\\Projects\\Scaler\\MS\\run-aspnetcore-microservices-master\\src\\Services\\Catalog\\Catalog.API\\Products\\DeleteProduct\\DeleteProductEndpoint.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Products\\DeleteProduct\\DeleteProductEndpoint.cs",
+              "ToolTip": "C:\\Users\\Projects\\Scaler\\MS\\run-aspnetcore-microservices-master\\src\\Services\\Catalog\\Catalog.API\\Products\\DeleteProduct\\DeleteProductEndpoint.cs",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Products\\DeleteProduct\\DeleteProductEndpoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T15:59:45.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CreateProductHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Projects\\Scaler\\MS\\run-aspnetcore-microservices-master\\src\\Services\\Catalog\\Catalog.API\\Products\\CreateProduct\\CreateProductHandler.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Products\\CreateProduct\\CreateProductHandler.cs",
+              "ToolTip": "C:\\Users\\Projects\\Scaler\\MS\\run-aspnetcore-microservices-master\\src\\Services\\Catalog\\Catalog.API\\Products\\CreateProduct\\CreateProductHandler.cs",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Products\\CreateProduct\\CreateProductHandler.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAcwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T15:59:39.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CreateProductEndpoint.cs",
+              "DocumentMoniker": "C:\\Users\\Projects\\Scaler\\MS\\run-aspnetcore-microservices-master\\src\\Services\\Catalog\\Catalog.API\\Products\\CreateProduct\\CreateProductEndpoint.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Products\\CreateProduct\\CreateProductEndpoint.cs",
+              "ToolTip": "C:\\Users\\Projects\\Scaler\\MS\\run-aspnetcore-microservices-master\\src\\Services\\Catalog\\Catalog.API\\Products\\CreateProduct\\CreateProductEndpoint.cs",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Products\\CreateProduct\\CreateProductEndpoint.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T15:59:31.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IBasketRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Projects\\Scaler\\MS\\run-aspnetcore-microservices-master\\src\\Services\\Basket\\Basket.API\\Data\\IBasketRepository.cs",
+              "RelativeDocumentMoniker": "Services\\Basket\\Basket.API\\Data\\IBasketRepository.cs",
+              "ToolTip": "C:\\Users\\Projects\\Scaler\\MS\\run-aspnetcore-microservices-master\\src\\Services\\Basket\\Basket.API\\Data\\IBasketRepository.cs",
+              "RelativeToolTip": "Services\\Basket\\Basket.API\\Data\\IBasketRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T12:51:31.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CachedBasketRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Projects\\Scaler\\MS\\run-aspnetcore-microservices-master\\src\\Services\\Basket\\Basket.API\\Data\\CachedBasketRepository.cs",
+              "RelativeDocumentMoniker": "Services\\Basket\\Basket.API\\Data\\CachedBasketRepository.cs",
+              "ToolTip": "C:\\Users\\Projects\\Scaler\\MS\\run-aspnetcore-microservices-master\\src\\Services\\Basket\\Basket.API\\Data\\CachedBasketRepository.cs",
+              "RelativeToolTip": "Services\\Basket\\Basket.API\\Data\\CachedBasketRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T12:51:26.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "StoreBasketHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Projects\\Scaler\\MS\\run-aspnetcore-microservices-master\\src\\Services\\Basket\\Basket.API\\Basket\\StoreBasket\\StoreBasketHandler.cs",
+              "RelativeDocumentMoniker": "Services\\Basket\\Basket.API\\Basket\\StoreBasket\\StoreBasketHandler.cs",
+              "ToolTip": "C:\\Users\\Projects\\Scaler\\MS\\run-aspnetcore-microservices-master\\src\\Services\\Basket\\Basket.API\\Basket\\StoreBasket\\StoreBasketHandler.cs",
+              "RelativeToolTip": "Services\\Basket\\Basket.API\\Basket\\StoreBasket\\StoreBasketHandler.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAUwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T12:49:36.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "StoreBasketEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\Projects\\Scaler\\MS\\run-aspnetcore-microservices-master\\src\\Services\\Basket\\Basket.API\\Basket\\StoreBasket\\StoreBasketEndpoints.cs",
+              "RelativeDocumentMoniker": "Services\\Basket\\Basket.API\\Basket\\StoreBasket\\StoreBasketEndpoints.cs",
+              "ToolTip": "C:\\Users\\Projects\\Scaler\\MS\\run-aspnetcore-microservices-master\\src\\Services\\Basket\\Basket.API\\Basket\\StoreBasket\\StoreBasketEndpoints.cs",
+              "RelativeToolTip": "Services\\Basket\\Basket.API\\Basket\\StoreBasket\\StoreBasketEndpoints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T12:51:11.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "GetBasketHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Projects\\Scaler\\MS\\run-aspnetcore-microservices-master\\src\\Services\\Basket\\Basket.API\\Basket\\GetBasket\\GetBasketHandler.cs",
+              "RelativeDocumentMoniker": "Services\\Basket\\Basket.API\\Basket\\GetBasket\\GetBasketHandler.cs",
+              "ToolTip": "C:\\Users\\Projects\\Scaler\\MS\\run-aspnetcore-microservices-master\\src\\Services\\Basket\\Basket.API\\Basket\\GetBasket\\GetBasketHandler.cs",
+              "RelativeToolTip": "Services\\Basket\\Basket.API\\Basket\\GetBasket\\GetBasketHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T12:51:06.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "GetBasketEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\Projects\\Scaler\\MS\\run-aspnetcore-microservices-master\\src\\Services\\Basket\\Basket.API\\Basket\\GetBasket\\GetBasketEndpoints.cs",
+              "RelativeDocumentMoniker": "Services\\Basket\\Basket.API\\Basket\\GetBasket\\GetBasketEndpoints.cs",
+              "ToolTip": "C:\\Users\\Projects\\Scaler\\MS\\run-aspnetcore-microservices-master\\src\\Services\\Basket\\Basket.API\\Basket\\GetBasket\\GetBasketEndpoints.cs",
+              "RelativeToolTip": "Services\\Basket\\Basket.API\\Basket\\GetBasket\\GetBasketEndpoints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T12:51:01.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "DeleteBasketHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Projects\\Scaler\\MS\\run-aspnetcore-microservices-master\\src\\Services\\Basket\\Basket.API\\Basket\\DeleteBasket\\DeleteBasketHandler.cs",
+              "RelativeDocumentMoniker": "Services\\Basket\\Basket.API\\Basket\\DeleteBasket\\DeleteBasketHandler.cs",
+              "ToolTip": "C:\\Users\\Projects\\Scaler\\MS\\run-aspnetcore-microservices-master\\src\\Services\\Basket\\Basket.API\\Basket\\DeleteBasket\\DeleteBasketHandler.cs",
+              "RelativeToolTip": "Services\\Basket\\Basket.API\\Basket\\DeleteBasket\\DeleteBasketHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T12:50:55.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "DeleteBasketEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\Projects\\Scaler\\MS\\run-aspnetcore-microservices-master\\src\\Services\\Basket\\Basket.API\\Basket\\DeleteBasket\\DeleteBasketEndpoints.cs",
+              "RelativeDocumentMoniker": "Services\\Basket\\Basket.API\\Basket\\DeleteBasket\\DeleteBasketEndpoints.cs",
+              "ToolTip": "C:\\Users\\Projects\\Scaler\\MS\\run-aspnetcore-microservices-master\\src\\Services\\Basket\\Basket.API\\Basket\\DeleteBasket\\DeleteBasketEndpoints.cs",
+              "RelativeToolTip": "Services\\Basket\\Basket.API\\Basket\\DeleteBasket\\DeleteBasketEndpoints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T12:50:49.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CheckoutBasketHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Projects\\Scaler\\MS\\run-aspnetcore-microservices-master\\src\\Services\\Basket\\Basket.API\\Basket\\CheckoutBasket\\CheckoutBasketHandler.cs",
+              "RelativeDocumentMoniker": "Services\\Basket\\Basket.API\\Basket\\CheckoutBasket\\CheckoutBasketHandler.cs",
+              "ToolTip": "C:\\Users\\Projects\\Scaler\\MS\\run-aspnetcore-microservices-master\\src\\Services\\Basket\\Basket.API\\Basket\\CheckoutBasket\\CheckoutBasketHandler.cs",
+              "RelativeToolTip": "Services\\Basket\\Basket.API\\Basket\\CheckoutBasket\\CheckoutBasketHandler.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAcwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T12:50:44.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CheckoutBasketEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\Projects\\Scaler\\MS\\run-aspnetcore-microservices-master\\src\\Services\\Basket\\Basket.API\\Basket\\CheckoutBasket\\CheckoutBasketEndpoints.cs",
+              "RelativeDocumentMoniker": "Services\\Basket\\Basket.API\\Basket\\CheckoutBasket\\CheckoutBasketEndpoints.cs",
+              "ToolTip": "C:\\Users\\Projects\\Scaler\\MS\\run-aspnetcore-microservices-master\\src\\Services\\Basket\\Basket.API\\Basket\\CheckoutBasket\\CheckoutBasketEndpoints.cs",
+              "RelativeToolTip": "Services\\Basket\\Basket.API\\Basket\\CheckoutBasket\\CheckoutBasketEndpoints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T12:48:27.321Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
